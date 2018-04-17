@@ -4,7 +4,7 @@ title: AFL Elo Ladder 2018
 ---
 <ul class="ladder">
 <div class="blurb">
-  <h1>AFL Elo Ladder 2018</h1>
+  <h1></h1>
   <p>
       <table border="1" class="dataframe">
   <thead>
