@@ -1,5 +1,5 @@
 ---
 layout: page
-title: AFL Simulations 
+title: AFL Season Simulation
 ---
 Coming soon
