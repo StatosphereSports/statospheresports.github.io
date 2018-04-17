@@ -202,8 +202,9 @@ subtitle: Updated Post Round 4
       <td>73.1874</td>
     </tr>
   </tbody>
-</table>
-			
+</table>		
+</p>
+<p> Elo Ladder is based on Elo predictions after each match and therefore is favoured towards the favourite and results in unlikely final ladders where top teams and low teams final record is exaggerated
 </p>
 </div><!-- /.blurb -->	
 </ul>
