@@ -1,0 +1,208 @@
+---
+layout: post
+title: AFL Elo Ladder 2018
+---
+<ul class="ladder">
+<div class="blurb">
+  <h1>AFL Elo Ladder 2018</h1>
+  <p>
+      <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th></th>
+      <th>Team</th>
+      <th>Wins</th>
+      <th>Losses</th>
+      <th>Points</th>
+      <th>Points For</th>
+      <th>Points Against</th>
+      <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Richmond</td>
+      <td>19</td>
+      <td>3</td>
+      <td>76</td>
+      <td>2151</td>
+      <td>1650</td>
+      <td>130.364</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>GW Sydney</td>
+      <td>19</td>
+      <td>3</td>
+      <td>76</td>
+      <td>2096</td>
+      <td>1700</td>
+      <td>123.294</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Hawthorn</td>
+      <td>19</td>
+      <td>3</td>
+      <td>76</td>
+      <td>2183</td>
+      <td>1817</td>
+      <td>120.143</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Sydney</td>
+      <td>18</td>
+      <td>4</td>
+      <td>72</td>
+      <td>2124</td>
+      <td>1764</td>
+      <td>120.408</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Adelaide</td>
+      <td>16</td>
+      <td>6</td>
+      <td>64</td>
+      <td>2086</td>
+      <td>1799</td>
+      <td>115.953</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Port Adelaide</td>
+      <td>15</td>
+      <td>7</td>
+      <td>60</td>
+      <td>1993</td>
+      <td>1769</td>
+      <td>112.663</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Collingwood</td>
+      <td>15</td>
+      <td>7</td>
+      <td>60</td>
+      <td>1988</td>
+      <td>1820</td>
+      <td>109.231</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Geelong</td>
+      <td>14</td>
+      <td>8</td>
+      <td>56</td>
+      <td>2049</td>
+      <td>1859</td>
+      <td>110.221</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>West Coast</td>
+      <td>13</td>
+      <td>9</td>
+      <td>52</td>
+      <td>2097</td>
+      <td>1864</td>
+      <td>112.5</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Melbourne</td>
+      <td>10</td>
+      <td>12</td>
+      <td>40</td>
+      <td>1914</td>
+      <td>1966</td>
+      <td>97.355</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>North Melbourne</td>
+      <td>9</td>
+      <td>13</td>
+      <td>36</td>
+      <td>1874</td>
+      <td>1869</td>
+      <td>100.268</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Essendon</td>
+      <td>8</td>
+      <td>14</td>
+      <td>32</td>
+      <td>1978</td>
+      <td>2046</td>
+      <td>96.6764</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Western Bulldogs</td>
+      <td>8</td>
+      <td>14</td>
+      <td>32</td>
+      <td>1819</td>
+      <td>2005</td>
+      <td>90.7232</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Fremantle</td>
+      <td>5</td>
+      <td>17</td>
+      <td>20</td>
+      <td>1689</td>
+      <td>2063</td>
+      <td>81.8711</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>St Kilda</td>
+      <td>4</td>
+      <td>18</td>
+      <td>16</td>
+      <td>1627</td>
+      <td>2043</td>
+      <td>79.6378</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Gold Coast</td>
+      <td>4</td>
+      <td>18</td>
+      <td>16</td>
+      <td>1604</td>
+      <td>2113</td>
+      <td>75.911</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Brisbane Lions</td>
+      <td>2</td>
+      <td>20</td>
+      <td>8</td>
+      <td>1736</td>
+      <td>2273</td>
+      <td>76.3748</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Carlton</td>
+      <td>0</td>
+      <td>22</td>
+      <td>0</td>
+      <td>1605</td>
+      <td>2193</td>
+      <td>73.1874</td>
+    </tr>
+  </tbody>
+</table>
+			
+</p>
+</div><!-- /.blurb -->	
+</ul>
