@@ -4,7 +4,6 @@ title: Results
 ---
 <ul class="results">
 <div class="blurb">
-<div align = "center'>
 <h1>AFL Elo Results 2018</h1>
 <p>
 <table border="1" class="dataframe" align = "center">
@@ -497,5 +496,4 @@ title: Results
 			
 </p>
 </div><!-- /.blurb -->	
-</div>
 </ul>
