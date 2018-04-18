@@ -21,7 +21,7 @@ While admittedly my results up to this point are irrelevent given I have only up
 
  <p>
 
- 	What looked to be a fairly onesided round going in proved to be even more so than expected, even if the results didn't always go the way they were predicted.
+ What looked to be a fairly onesided round going in proved to be even more so than expected, even if the results didn't always go the way they were predicted.
 
  </p>
 
@@ -43,7 +43,7 @@ While admittedly my results up to this point are irrelevent given I have only up
 
 <h1>
 
-	Updated ratings
+Updated ratings
 
 </h1>
 
@@ -51,7 +51,7 @@ While admittedly my results up to this point are irrelevent given I have only up
 
 <p>
 
-	Unsurprisingly the five big winners of the round (Collingwood, North Melbourne, Hawthorn, Richmond and West Coast) were the biggest gainers for the round, while their opponents (Adelaide, Carlton, Melbourne, Brisbane and Gold Coast) moved down the furthest.  
+Unsurprisingly the five big winners of the round (Collingwood, North Melbourne, Hawthorn, Richmond and West Coast) were the biggest gainers for the round, while their opponents (Adelaide, Carlton, Melbourne, Brisbane and Gold Coast) moved down the furthest.  
 
 </p>
 
