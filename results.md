@@ -3,7 +3,7 @@ layout: page
 title: Results 
 ---
 <ul class="results">
-<div class="blurb">
+<div class="blurb" align = "center'>
 <h1>AFL Elo Results 2018</h1>
 <p>
 <table border="1" class="dataframe" align = "center">
