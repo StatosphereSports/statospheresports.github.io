@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: AFL Elo Results 2018 
+title: Results 
 ---
 <ul class="results">
 <div class="blurb">
