@@ -6,7 +6,7 @@ title: Results
 <div class="blurb">
 <h1>AFL Elo Results 2018</h1>
 <p>
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" align = "center">
   <thead>
     <tr style="text-align: center;">
       <th>Date</th>
