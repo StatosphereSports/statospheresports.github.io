@@ -8,9 +8,9 @@ date: 2018-04-18
 
 ---
 
-	<ul class="post">
+<ul class="post">
 
-	<div class="blurb">
+<div class="blurb">
 
 		<h1>Round 5 Predictions</h1>
 
@@ -23,6 +23,6 @@ date: 2018-04-18
 
 
 		<p>The difference between some predicted scores may appear to be slightly off the predicted margin by a point, this is due to rounding for display in this table.</p>
-	</div><!-- /.blurb -->	
+</div><!-- /.blurb -->	
 
-	</ul>
+</ul>
