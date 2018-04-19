@@ -629,8 +629,6 @@ footer .theme-by {
 /* --- Tables --- */
 
 table {
-  margin-left:auto; 
-  margin-right:auto;
   padding: 0;
 }
 table tr {
