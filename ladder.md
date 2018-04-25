@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AFL Elo Ladder 2018
-subtitle: Updated Post Round 4
+subtitle: Updated Post Round 5
 ---
 <ul class="ladder">
 <div class="blurb">
