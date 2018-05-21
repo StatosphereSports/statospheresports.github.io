@@ -23,7 +23,7 @@ Not a great round overall for the model with three close results under 10 points
 
  <p>
 
- 	Overall 6/9 tips right and a MAE of 41.42 pushes the season MAE up to 29.70. 
+ 	Overall 6/9 tips right and a MAE of 41.42 pushes the season MAE up to 28.98. 
 
  </p>
 
