@@ -16,7 +16,7 @@ date: 2018-05-14
 
  <p>
 
-Fairly strong result overall for the round, only Melbourne'e blowout of Gold Coast was off by moer than 30 points. Would've liked to have a few other results under the 2 goal mark but having 8/9 under 30 points is a positive with the one really close result in the Western Bulldogs-Brisbane game.  
+Fairly strong result overall for the round, only Melbourne's blowout of Gold Coast was off by moer than 30 points. Would've liked to have a few other results under the 2 goal mark but having 8/9 under 30 points is a positive with the one really close result in the Western Bulldogs-Brisbane game.  
 
  </p>
 
