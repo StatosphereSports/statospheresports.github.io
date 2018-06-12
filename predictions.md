@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: AFL Elo Ladder 2018
