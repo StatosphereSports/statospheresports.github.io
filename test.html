@@ -1,28 +1,16 @@
----
-layout: page
-title: Test
----
+<head>
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="test.js"></script>}
+</head>
 
-<link rel="stylesheet" href="https://mode.github.io/alamode/alamode.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
-<script src="https://mode.github.io/alamode/alamode.min.js"></script>
+<p>
+    Here's a simple Plotly plot - 
+    <a href="https://bit.ly/1Or9igj">plotly.js documentation</a>
+</p>
 
-
-<script>
-
-alamode.retentionHeatmap(
-  {
-    query_name: "Customer Retention",
-    cohort_column: "cohort",
-    pivot_column: "period_age",
-    value_column: "rate",
-    total_column: "first_period",
-    title: "Cutomer retention by user age",
-    pivot_label: "Periods out",
-    value_is_percent: true,
-    color_gradient: ["#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850"],
-    precision: 0
-  }
-)
-
-</script>
+<!-- Plots go in blank <div> elements. 
+    You can size them in the plot layout,
+    or give the div a size as shown here.
+-->
+<div id="tester" style="width:90%;height:250px;"></div>
