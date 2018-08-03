@@ -11,7 +11,7 @@ date: 2018-08-03
 
 <div class="blurb">
 
-<p>The term Super Saturday may be used excessively for any sporting weekend that is slightly better than ordinary but I don't think it's unfair to describe this Saturday as the AFL's true Super Saturday. 5 extremely tight games, so much so that prior to teams being released no Squggle model had amazingly not picked the same 5 sides.<\p>
+<p>The term Super Saturday may be used excessively for any sporting weekend that is slightly better than ordinary but I don't think it's unfair to describe this Saturday as the AFL's true Super Saturday. 5 extremely tight games, so much so that prior to teams being released no Squggle model had amazingly not picked the same 5 sides.</p>
 
 <p>From this end the model seems agree with the general perception of the weekend with the highest predicted margin 13 points, for the Sydney Collingwood game and every other match predicted to be under a 10 point margin.</p>
 
